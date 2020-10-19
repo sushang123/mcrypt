@@ -5,7 +5,8 @@ https://packagist.org/packages/devilhot/mcrypt
 # 安装方法  
 composer require devilhot/mcrypt  
 
-# 使用方法
+# 使用方法  
+```
 <?php
 include_once "vendor/autoload.php";
 
@@ -17,3 +18,4 @@ var_dump($s);
 $s = mcrypt::decrypt($s);
 var_dump($s);
 ?>
+```
