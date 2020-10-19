@@ -1,4 +1,5 @@
-
+# 注意  
+php >=5.6 && php <7.0
 # 地址  
 https://packagist.org/packages/devilhot/mcrypt  
 
