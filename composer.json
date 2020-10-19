@@ -6,6 +6,7 @@
             "name": "devil"
         }
     ],
+    "minimum-stability": "dev",
     "license": "MIT",
     "require": {
         "php": ">=5.6"
