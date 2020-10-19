@@ -3,10 +3,12 @@ namespace Devil;
 
 /**
  *  Mcrypt 对称加密解密
- * @author Devil <36156884@qq.com>
  */
 class Mcrypt {
 
+    /**
+    * 这里随便换
+    **/
     const KEY = '35*Ma5!X6S!oujcSO4ivx&mHAFd3DuF!b3#0JZoZePj0cUx6PRM5qur3Ta6s';
 
     /**
