@@ -13,10 +13,10 @@ include_once "vendor/autoload.php";
 
 use Devil\Mcrypt;
 //加密
-$s = mcrypt::encrypt('1232');
+$s = Mcrypt::encrypt('1232');
 var_dump($s);
 //解密
-$s = mcrypt::decrypt($s);
+$s = Mcrypt::decrypt($s);
 var_dump($s);
 ?>
 ```
