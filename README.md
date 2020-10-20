@@ -11,7 +11,7 @@ composer require devilhot/mcrypt
 <?php
 include_once "vendor/autoload.php";
 
-use devil\mcrypt;
+use Devil\Mcrypt;
 //加密
 $s = mcrypt::encrypt('1232');
 var_dump($s);
